@@ -8,9 +8,7 @@
  * function getNonceStr   得到 随机字符串
  * function curl_post_ssl 带curl 带证书请求
  * function _getSign      得到带签名的新的xml
- * @author sixian
  * @version v1.0
- * @copyright  idea0086 
  * creat_time  2015-06-04 22:17 
  */
 class walletWeixinUtil
